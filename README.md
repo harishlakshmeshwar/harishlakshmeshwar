@@ -132,7 +132,7 @@ Diploma — Electronics & Communication Engineering
 ## Connect With Me
 
 - 🌐 GitHub: https://github.com/harishlakshmeshwar
-- 💼 LinkedIn: https://www.linkedin.com/in/harish-lakshmeshwar
+- 💼 LinkedIn: https://www.linkedin.com/in/harish-lakshmeshwar](https://www.linkedin.com/in/harish-lakshmeshwar-601a732a1/
 - 📧 Email: harishlakshmeshwar@gmail.com
 
 <p align="center">
