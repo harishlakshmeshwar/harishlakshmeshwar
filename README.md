@@ -63,8 +63,8 @@ Tech used: Python, Flask, SQL, Deployment automation
 ## Connect With Me
 
 - 🌐 Portfolio: [yourportfolio.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]
-- 📧 Email: [your.email@example.com]
+- 💼 LinkedIn: www.linkedin.com/in/harish-lakshmeshwar-601a732a1
+- 📧 Email: harihlaxmeshwar@gmail.com
 
 <p align="center">
   <i>“Building useful things, one idea at a time.”</i>
