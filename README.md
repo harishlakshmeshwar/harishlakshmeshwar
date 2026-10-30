@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Electronics & Instrumentation Engineering Student | Expected Graduation: 2027</strong><br>
-  Bengaluru, Karnataka • <a href="mailto:harishlakshmeshwar@gmail.com">harishlakshmeshwar@gmail.com</a> • +91 8790843660
+  Bengaluru, Karnataka • <a href="mailto:harishlakshmeshwar@gmail.com">harishlakshmeshwar@gmail.com</a> • +91 8970486360
 </p>
 
 <p align="center">
@@ -132,7 +132,7 @@ Diploma — Electronics & Communication Engineering
 ## Connect With Me
 
 - 🌐 GitHub: https://github.com/harishlakshmeshwar
-- 💼 LinkedIn: https://www.linkedin.com/in/harish-lakshmeshwar-601a732a1/
+- 💼 LinkedIn: https://www.linkedin.com/in/harish-lakshmeshwar-601a732a1
 - 📧 Email: harishlakshmeshwar@gmail.com
 
 <p align="center">
